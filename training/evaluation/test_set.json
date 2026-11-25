@@ -1,0 +1,17 @@
+[
+  {
+    "instruction": "Which region has the highest revenue?",
+    "input": "Dataset columns: region, revenue, cost",
+    "output": "{\"tools\": [\"top_categories\"], \"reason\": \"Rank regions by revenue metric\"}"
+  },
+  {
+    "instruction": "What is the correlation between marketing spend and revenue?",
+    "input": "Dataset columns: marketing_spend, revenue",
+    "output": "{\"tools\": [\"correlation_summary\"], \"reason\": \"Compute numeric correlation\"}"
+  },
+  {
+    "instruction": "Show a chart of revenue by month.",
+    "input": "Dataset columns: date, revenue, region",
+    "output": "{\"tools\": [\"recommend_chart\", \"build_chart_config\"], \"reason\": \"Time trend -> line chart\"}"
+  }
+]

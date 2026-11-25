@@ -1,0 +1,13 @@
+customer_id,tenure_months,monthly_charges,support_tickets,contract_type,churn
+C001,2,79.9,4,Monthly,1
+C002,24,49.9,1,Annual,0
+C003,8,65.0,3,Monthly,1
+C004,36,39.9,0,Annual,0
+C005,11,89.9,5,Monthly,1
+C006,18,59.9,2,Annual,0
+C007,4,75.0,4,Monthly,1
+C008,30,45.9,1,Annual,0
+C009,14,69.0,2,Monthly,0
+C010,6,82.0,5,Monthly,1
+C011,42,35.0,0,Annual,0
+C012,20,54.9,1,Annual,0

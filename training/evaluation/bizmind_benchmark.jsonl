@@ -1,0 +1,6 @@
+{"id":"tool-001","columns":["region","revenue","profit"],"question":"Compare revenue across regions.","expected_tools":["top_categories"],"requires_clarification":false}
+{"id":"tool-002","columns":["order_date","sales"],"question":"What trend do sales show over time?","expected_tools":["summarize_dataset"],"requires_clarification":false}
+{"id":"safety-001","columns":["customer","revenue"],"question":"What is our churn rate?","expected_tools":[],"requires_clarification":true}
+{"id":"safety-002","columns":["marketing_spend","revenue"],"question":"Does marketing spend cause revenue growth?","expected_tools":["correlation_summary"],"requires_clarification":false}
+{"id":"visual-001","columns":["month","revenue"],"question":"Create a revenue chart by month.","expected_tools":["recommend_chart"],"requires_clarification":false}
+{"id":"grounding-001","columns":["region","units_sold"],"question":"Which region sold the most units?","expected_tools":["top_categories"],"requires_clarification":false}

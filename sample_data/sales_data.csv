@@ -1,0 +1,13 @@
+order_date,region,category,product,units_sold,unit_price,unit_cost,marketing_spend
+2026-01-05,North,Hardware,Sensor A,120,45,27,500
+2026-01-14,South,Software,Plan Basic,210,20,5,650
+2026-02-03,East,Hardware,Sensor B,95,62,38,470
+2026-02-18,West,Software,Plan Pro,145,48,12,720
+2026-03-06,North,Services,Support,160,30,14,550
+2026-03-21,South,Hardware,Sensor A,135,45,27,610
+2026-04-02,East,Software,Plan Basic,235,20,5,690
+2026-04-16,West,Hardware,Sensor B,110,62,38,520
+2026-05-07,North,Software,Plan Pro,170,48,12,780
+2026-05-20,South,Services,Support,180,30,14,620
+2026-06-04,East,Hardware,Sensor A,150,45,27,640
+2026-06-19,West,Software,Plan Basic,250,20,5,820

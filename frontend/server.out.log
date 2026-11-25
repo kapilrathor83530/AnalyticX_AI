@@ -1,0 +1,15 @@
+
+> analyticx-ai-frontend@0.1.0 dev
+> vite --host 127.0.0.1
+
+
+  VITE v5.4.21  ready in 956 ms
+
+  ➜  Local:   http://127.0.0.1:5173/
+  ➜  press h + enter to show help
+12:10:37 am [vite] hmr update /src/pages/LandingPage.tsx, /src/index.css
+12:10:37 am [vite] hmr update /src/pages/LandingPage.tsx, /src/index.css
+12:22:42 am [vite] hmr update /src/components/Layout.tsx, /src/index.css
+12:22:42 am [vite] hmr update /src/pages/UploadPage.tsx, /src/index.css
+12:29:40 am [vite] hmr update /src/pages/RegisterPage.tsx, /src/index.css
+12:29:40 am [vite] hmr update /src/pages/LoginPage.tsx, /src/index.css

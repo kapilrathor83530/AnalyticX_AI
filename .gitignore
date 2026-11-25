@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploads and model weights
+storage/
+uploads/
+models/
+outputs/
+
+
+# Environment and Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
